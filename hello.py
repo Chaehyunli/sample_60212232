@@ -1,3 +1,4 @@
 print('hello')
-print("how aree you")
+print("how are you!!")
 print("End")
+print("hi")
